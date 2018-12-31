@@ -1,8 +1,8 @@
-# jSymbolic
+# Guess the Composer
 
-A python notebook of some musical characteristics of some of my favorite composers' pieces.  <br/>
+This repo consists of a python notebook of some musical characteristics of some of my favorite composers' pieces. Some of these will become feature variables for a composer classification model. <br/> 
 
-ML TODO: create composer classifier <br/>
+TODO: create composer classifier <br/>
 
 Through jSymbolic software: http://jmir.sourceforge.net/jSymbolic.html <br/>
 Weka for machine learning: https://sourceforge.net/projects/weka/ <br/>
